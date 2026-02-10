@@ -1,0 +1,160 @@
+{
+  "book_id": "african_independence_surrealist_local_universal",
+  "title": "The Ballast of Ghost Trains",
+  "tagline": "A son returns home to bury his father and finds himself completing a railway built from memory, madness, and the relics of a nation's soul.",
+  "target_words": 70000,
+  "actual_words": 67820,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of Memory vs. The Calculus of Progress",
+    "Surrealism as a Political and Spiritual Language",
+    "Inherited Ghosts and the Unfinished Projects of Independence",
+    "The Local Myth as Universal Blueprint"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Suitcase in the Ogbu Tree",
+      "words": 2825
+    },
+    {
+      "ch": 2,
+      "title": "The Hollow Iroko",
+      "words": 2800
+    },
+    {
+      "ch": 3,
+      "title": "The First Relic",
+      "words": 2750
+    },
+    {
+      "ch": 4,
+      "title": "The Market Square Under the Flame Tree",
+      "words": 2850
+    },
+    {
+      "ch": 5,
+      "title": "Ballast of Broken Pottery",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Surveyor of Dreams",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The River That Refused a Bridge",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "Sleepers Made of Silence",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Conductor Without a Train",
+      "words": 3050
+    },
+    {
+      "ch": 10,
+      "title": "The Whistle's First Note",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Station of Lost Causes",
+      "words": 2850
+    },
+    {
+      "ch": 12,
+      "title": "Timetable Written in Water",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "The Earth Rejects Straight Lines",
+      "words": 2750
+    },
+    {
+      "ch": 14,
+      "title": "Adebayo's Ledger",
+      "words": 2700
+    },
+    {
+      "ch": 15,
+      "title": "The Ghost of the Colonial Engine",
+      "words": 2650
+    },
+    {
+      "ch": 16,
+      "title": "Laying the Spiral",
+      "words": 2600
+    },
+    {
+      "ch": 17,
+      "title": "The Village That Moved",
+      "words": 2550
+    },
+    {
+      "ch": 18,
+      "title": "Fuel of Laughter and Sweat",
+      "words": 2500
+    },
+    {
+      "ch": 19,
+      "title": "The Center That Holds",
+      "words": 2450
+    },
+    {
+      "ch": 20,
+      "title": "The Unpacking",
+      "words": 2400
+    },
+    {
+      "ch": 21,
+      "title": "Departures and Arrivals",
+      "words": 2350
+    },
+    {
+      "ch": 22,
+      "title": "The First Passenger",
+      "words": 2300
+    },
+    {
+      "ch": 23,
+      "title": "The Line Complete",
+      "words": 2250
+    },
+    {
+      "ch": 24,
+      "title": "Not a Ghost, But an Echo",
+      "words": 2200
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Nkem encounters a 'station' that is not a building, but a recurring communal dream shared by a village.",
+      "Create a character who is a 'ticket inspector' for the ghost train, assessing the value of the memories and stories people offer as fare.",
+      "Describe the moment the train's whistle—'sounding like our language'—is heard for the first time across the region. What does it say?",
+      "Write a vignette from the perspective of one of the 'relics' (the nail, the pottery shard, the coin) about being gathered for the railway's ballast."
+    ],
+    "technical": [
+      "Design a 'metaphorical mapping' tool that visualizes the non-linear, spiral route of the railway, connecting abstract concepts (memory, hope, grief) instead of geographic points.",
+      "Build an interactive archive where each 'relic' in the story is a node that, when clicked, generates a micro-story about its origin and significance, using the narrative's tone."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ben Okri",
+      "Amos Tutuola",
+      "Franz Kafka",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A young man, his face etched with both grief and determination, carefully places a final, weathered railway sleeper onto an impossible track that ascends into a stormy sky, surrounded by spectral locomotives made from rusted scrap metal, old voting ballots, and fragments of tribal masks. This surreal scene unfolds at the twilight junction where a decaying colonial-era station meets a vibrant, otherworldly savanna, where the tracks are laid upon spines of old books and the telegraph wires are strung with forgotten prayers. In the atmospheric style of Wangechi Mutu's collaged surrealism and the mystical realism of Ben Enwonwu, blending intricate detail with profound symbolic weight. Book cover framing, centered and monumental composition viewed from a low, reverent angle, emphasizing the colossal scale of the ghost trains against the human figure. Dramatic, volumetric lighting from a setting sun that breaks through purple storm clouds, casting long, haunting shadows and illuminating the scene in a palette of burnt sienna, deep indigo, oxidized copper, and ethereal gold. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
